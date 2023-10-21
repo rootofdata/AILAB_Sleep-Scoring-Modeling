@@ -1,0 +1,8 @@
+com.samsung.health.weight,6195017,10
+body_fat_mass,start_time,custom,height,weight,muscle_mass,update_time,create_time,skeletal_muscle,fat_free_mass,basal_metabolic_rate,time_offset,deviceuuid,skeletal_muscle_mass,comment,fat_free,pkg_name,body_fat,datauuid,vfa_level,total_body_water
+,2019-12-26 23:15:31.582,,,90.1,,2019-12-26 23:15:49.504,2019-12-26 23:15:49.504,,,,UTC+0900,1pqYBn0PvJ,,,,com.sec.android.app.shealth,,a4f0c1dd-38e3-4fa2-92a0-af48f762f4b9,,,
+,2020-05-24 04:18:16.858,,181.9,86.9,,2020-05-24 04:18:16.858,2020-05-24 04:18:16.861,,,,UTC+0900,1pqYBn0PvJ,,,,com.sec.android.app.shealth,,71a1a071-db66-425e-8127-a5757ca06b60,,,
+,2020-05-24 04:10:35.776,,,86.7,,2020-05-24 04:10:50.426,2020-05-24 04:10:50.426,,,,UTC+0900,1pqYBn0PvJ,,,,com.sec.android.app.shealth,,b7568bb6-95f4-4ad3-a802-bf0c08bfe19d,,,
+44.452454,2021-10-26 02:07:18.073,,159.0,86.9,,2021-10-26 02:07:18.099,2021-10-26 02:07:18.099,24.814575,42.447548,1286,UTC+0900,DQQ9M5Fmpd,21.563866,,48.846428,com.sec.android.app.shealth,51.153572,14cf5e56-7497-4dc0-94a6-ec71320bf1c1,,31.12429,
+,2020-05-24 04:18:02.363,,181.9,86.9,,2020-05-24 04:18:02.363,2020-05-24 04:18:02.368,,,,UTC+0900,1pqYBn0PvJ,,,,com.sec.android.app.shealth,,167d52cf-0b92-4f5d-95ac-f51341ee7cf8,,,
+,2021-10-25 05:23:05.815,,159.0,86.9,,2021-10-25 05:23:10.454,2021-10-25 05:23:10.454,,,,UTC+0900,6fPiwL19M5,,,,com.sec.android.app.shealth,,d11079a7-e50c-40f1-82ef-bc3cb2c870fa,,,

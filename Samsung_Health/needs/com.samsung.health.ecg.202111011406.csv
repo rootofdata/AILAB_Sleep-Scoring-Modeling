@@ -1,0 +1,5 @@
+com.samsung.health.ecg,6195017,1
+sample_frequency,start_time,custom,mean_heart_rate,max_heart_rate,update_time,create_time,data_mime,data,min_heart_rate,sample_count,time_offset,deviceuuid,comment,pkg_name,end_time,datauuid
+500,2021-10-26 07:26:19.122,,62.0,,2021-11-01 02:19:47.883,2021-11-01 02:19:47.883,application/pdf,a87a324d-26e8-447d-9b53-1b3a487a79d4.data.pdf,,15000,UTC+0900,960b9fd1-24af-4254-ab87-5f1a913753c4,,com.samsung.android.shealthmonitor,2021-10-26 07:26:49.122,a87a324d-26e8-447d-9b53-1b3a487a79d4,
+500,2021-10-26 07:25:38.640,,0.0,,2021-11-01 02:19:47.823,2021-11-01 02:19:47.823,application/pdf,7d7a8204-d087-420a-bef9-2da71647a7e1.data.pdf,,15000,UTC+0900,960b9fd1-24af-4254-ab87-5f1a913753c4,,com.samsung.android.shealthmonitor,2021-10-26 07:26:08.640,7d7a8204-d087-420a-bef9-2da71647a7e1,
+500,2021-10-08 13:45:56.324,,58.0,,2021-10-08 13:46:01.956,2021-10-08 13:46:01.956,application/pdf,820c0e4f-8b5e-4662-bd86-24fe8e436ce7.data.pdf,,15000,UTC+0900,960b9fd1-24af-4254-ab87-5f1a913753c4,,com.samsung.android.shealthmonitor,2021-10-08 13:46:26.324,820c0e4f-8b5e-4662-bd86-24fe8e436ce7,

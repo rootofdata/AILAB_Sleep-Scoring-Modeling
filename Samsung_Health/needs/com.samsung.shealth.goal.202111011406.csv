@@ -1,0 +1,3 @@
+com.samsung.shealth.goal,6195017,2
+start_time,float_value,update_time,create_time,value,time_offset,deviceuuid,pkg_name,datauuid,goal_type
+2020-05-24 04:18:39.563,86.9,2020-05-24 04:18:39.564,2020-05-24 04:18:39.564,86,UTC+0900,1pqYBn0PvJ,com.sec.android.app.shealth,ec4fa70e-d6fd-4bb1-96e4-050e51ba0c62,40004,

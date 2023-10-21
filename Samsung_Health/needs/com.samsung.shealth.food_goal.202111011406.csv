@@ -1,0 +1,9 @@
+com.samsung.shealth.food_goal,6195017,1
+update_time,create_time,goal_value,goal_by,time_offset,deviceuuid,comment,pkg_name,set_time,datauuid,goal_type
+2020-05-24 04:19:55.279,2020-05-24 04:18:16.927,1793.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293896883,9642385f-efd2-4c52-a712-8f0a171aafa0,0,
+2020-05-24 04:18:02.467,2020-05-24 04:18:02.467,1915.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293882428,b11ad25e-5b17-4ba5-b7c8-966bf8af7af5,0,
+2020-05-24 04:18:02.446,2020-05-24 04:18:02.446,1915.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293882403,3922f9b9-3fe4-4775-bf48-dc4611e6e923,0,
+2020-05-24 04:10:51.446,2020-05-24 04:10:51.446,1895.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293451441,2d5bdcab-3d61-42db-a279-fb59f5835ad8,0,
+2020-05-24 04:18:02.437,2020-05-24 04:18:02.437,1915.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293882394,54fa36fe-a60f-4db7-b498-95f6e5e15627,0,
+2020-05-24 04:18:02.460,2020-05-24 04:18:02.460,1915.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293882424,9a72befd-3ac5-47d1-8608-468bc6cd908b,0,
+2020-05-24 04:18:02.474,2020-05-24 04:18:02.474,1915.0,,UTC+0900,1pqYBn0PvJ,,com.sec.android.app.shealth,1590293882427,1133682c-3e3c-438d-9bac-e298469a793c,0,

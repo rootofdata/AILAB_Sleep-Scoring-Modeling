@@ -1,0 +1,9 @@
+com.samsung.health.device_profile,6195017,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2021-10-01 01:16:33.459,2021-10-01 01:16:33.459,My Device,SM-G935S,,6fPiwL19M5,com.sec.android.app.shealth,Galaxy S7 edge,7c62c8d6-13db-0603-989e-45501984d293,
+Samsung,,,,,,360001,2021-10-21 08:06:05.217,2021-10-21 08:06:05.217,My Device,SM-G965N,,6GQM7Ab3PF,com.sec.android.app.shealth,SM-G955N,b58e0305-1382-4e7d-9772-c5395dd149e6,
+Combined,,,,,,0,2021-10-08 01:57:16.800,2021-10-08 01:57:16.800,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,SM-G955N,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2021-10-08 01:57:17.253,2021-10-08 01:57:17.253,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,SM-G955N,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Apple,,,,,,360001,2021-10-01 07:28:56.467,2021-10-01 07:28:56.467,My Device,iPhone 6,,O8xSl/tW6F,com.sec.android.app.shealth,iPhone 6,30323237-3733-3230-6532-303330613131,
+Samsung Electronics,1,102,10054,1,d3a02394-6f96-46e3-b257-d3845ca69da4.capability.json,360003,2021-10-26 05:16:04.262,2021-09-30 13:33:18.382,Galaxy Watch4,SM-R860,,DQQ9M5Fmpd,com.sec.android.app.shealth,Galaxy S7 edge,d3a02394-6f96-46e3-b257-d3845ca69da4,
+Samsung,,,,,,360001,2019-12-26 23:15:18.253,2019-12-26 23:15:18.253,My Device,SM-G975N,,1pqYBn0PvJ,com.sec.android.app.shealth,ILoveJoo,102cf8f6-888d-2fc5-6707-f8f855cb7813,
