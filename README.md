@@ -5,6 +5,8 @@
 ### **Introduction:**
 The interpretation of polysomnography (PSG) results follows the guidelines outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Sleep stages, arousals, and associated events are labeled according to the rules defined in the manual. The PSG data, including EEG, EOG, EMG, and respiratory signals, are analyzed in 30-second epochs, and specific criteria are applied for labeling sleep stages and events.
 
+![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/bf61818a-fcbf-49a8-96d3-36ecd793a026)
+
 ### **Sleep Stages:**
 #### **a. Stage W (Wakefulness):**
 
@@ -38,7 +40,8 @@ The interpretation of polysomnography (PSG) results follows the guidelines outli
 - Increased chin muscle activity during R indicates N1.
 - If N3 criteria are not met in the following epoch after N3, reclassify as N2.
 - If even partial alpha rhythm is observed during major body movements, classify as W.
-
+![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61)
+<https://m.blog.naver.com/crewblossom/221613672349>
 ### **Conclusion:**
 The PSG interpretation adheres to the principles outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Proper scoring of sleep stages, arousals, and associated events is crucial for accurate diagnosis and treatment planning.
 
