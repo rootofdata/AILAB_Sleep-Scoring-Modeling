@@ -6,8 +6,9 @@
 The interpretation of polysomnography (PSG) results follows the guidelines outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Sleep stages, arousals, and associated events are labeled according to the rules defined in the manual. The PSG data, including EEG, EOG, EMG, and respiratory signals, are analyzed in 30-second epochs, and specific criteria are applied for labeling sleep stages and events.
 
 Sleep is a physiological state of altered consciousness where the brain cyclically recovers from accumulated fatigue. It alternates between two main stages: Non-Rapid Eye Movement (NREM) sleep and Rapid Eye Movement (REM) sleep. Typically, REM sleep follows NREM sleep. NREM sleep is further divided into 4 stages (sometimes into 3 stages), constituting 75-80% of the total sleep duration. Stages 1 and 2 represent shallow sleep (Stage 1: an intermediate state between wakefulness and sleep, very light sleep; Stage 2: characterized by slower heart rate, decreased respiration, and dropping body temperature, occupying about half of the total sleep time). Stages 3 and 4 denote deep sleep (a state of complete physical relaxation), followed by REM sleep stage (increased brain activity, dreaming, and rapid eye movements). These stages are categorized based on specific criteria, including brain wave patterns, and each stage has distinct characteristics.
-
-![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/bf61818a-fcbf-49a8-96d3-36ecd793a026)
+<p align="center">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/bf61818a-fcbf-49a8-96d3-36ecd793a026",width="300" height="600/">
+</p>  
 
 ### **Sleep Stages:**
 #### **a. Stage W (Wakefulness):**
@@ -36,7 +37,9 @@ Sleep is a physiological state of altered consciousness where the brain cyclical
 - PLM defined as at least 4 LMs with intervals of 5-90 seconds; if multiple LMs occur within 5 seconds, they are considered a single LM.
 - PLM-associated arousals occur within 0.5 seconds of LM, with specific EEG criteria and increased chin EMG during REM sleep.
 
-![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/faccce02-9d34-4c39-bfc7-d8a0cdd3cb39)
+<p align="center">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/faccce02-9d34-4c39-bfc7-d8a0cdd3cb39",width="400" height="200/">
+</p> 
 
 ### **Sleep Scoring Principles:**
 
@@ -44,7 +47,10 @@ Sleep is a physiological state of altered consciousness where the brain cyclical
 - Increased chin muscle activity during R indicates N1.
 - If N3 criteria are not met in the following epoch after N3, reclassify as N2.
 - If even partial alpha rhythm is observed during major body movements, classify as W.
-![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61)
+
+<p align="center">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61",width="400" height="200/">
+</p> 
 <https://m.blog.naver.com/crewblossom/221613672349>
 
 ### **Conclusion:**
