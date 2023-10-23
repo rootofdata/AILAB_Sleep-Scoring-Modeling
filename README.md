@@ -36,6 +36,8 @@ Sleep is a physiological state of altered consciousness where the brain cyclical
 - PLM defined as at least 4 LMs with intervals of 5-90 seconds; if multiple LMs occur within 5 seconds, they are considered a single LM.
 - PLM-associated arousals occur within 0.5 seconds of LM, with specific EEG criteria and increased chin EMG during REM sleep.
 
+![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/faccce02-9d34-4c39-bfc7-d8a0cdd3cb39)
+
 ### **Sleep Scoring Principles:**
 
 - If arousals are observed in N2, N3, or R, classify the epoch as N1.
