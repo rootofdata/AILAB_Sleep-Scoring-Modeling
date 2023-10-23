@@ -20,18 +20,17 @@ The interpretation of polysomnography (PSG) results follows the guidelines outli
 - Presence of sleep spindles and K complexes defines N2 sleep.
 - If sleep spindles or K complexes are absent, EEG activity continues.
 - Transitions out of N2 occur when switching to Stage W, transitioning to N1 without sleep spindles or K complexes, or transitioning to slow-wave sleep (N3) or REM sleep.
-**d. Stage N3 (NREM 3 - Deep Sleep):**
+
+#### **d. Stage N3 (NREM 3 - Deep Sleep):**
 - Absence of sleep spindles and eye movements.
 - Lower chin muscle tone compared to N2; occasionally slower than REM.
 
-**e. Stage R (REM - Dream Sleep):**
+#### **e. Stage R (REM - Dream Sleep):**
 - Low amplitude and mixed-frequency EEG, low chin muscle tone, and rapid eye movements characterize REM sleep.
 - Scoring Periodic Limb Movements (PLM) and PLM-Associated Arousals:
-
 - LM with a duration of 0.5-10 seconds and starting from resting EMG above 8uV, ending when below 2uV.
 - PLM defined as at least 4 LMs with intervals of 5-90 seconds; if multiple LMs occur within 5 seconds, they are considered a single LM.
 - PLM-associated arousals occur within 0.5 seconds of LM, with specific EEG criteria and increased chin EMG during REM sleep.
-- Scoring Alternating Leg Muscle Activation (ALMA):
 
 ### **Sleep Scoring Principles:**
 
