@@ -2,7 +2,10 @@
 * Sleep Scoring Guidelines and Criteria Based on The AASM Manual for the Scoring of Sleep and Associated Events
 
 ### **Introduction:**
+
 The interpretation of polysomnography (PSG) results follows the guidelines outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Sleep stages, arousals, and associated events are labeled according to the rules defined in the manual. The PSG data, including EEG, EOG, EMG, and respiratory signals, are analyzed in 30-second epochs, and specific criteria are applied for labeling sleep stages and events.
+
+Sleep is a physiological state of altered consciousness where the brain cyclically recovers from accumulated fatigue. It alternates between two main stages: Non-Rapid Eye Movement (NREM) sleep and Rapid Eye Movement (REM) sleep. Typically, REM sleep follows NREM sleep. NREM sleep is further divided into 4 stages (sometimes into 3 stages), constituting 75-80% of the total sleep duration. Stages 1 and 2 represent shallow sleep (Stage 1: an intermediate state between wakefulness and sleep, very light sleep; Stage 2: characterized by slower heart rate, decreased respiration, and dropping body temperature, occupying about half of the total sleep time). Stages 3 and 4 denote deep sleep (a state of complete physical relaxation), followed by REM sleep stage (increased brain activity, dreaming, and rapid eye movements). These stages are categorized based on specific criteria, including brain wave patterns, and each stage has distinct characteristics.
 
 ![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/bf61818a-fcbf-49a8-96d3-36ecd793a026)
 
