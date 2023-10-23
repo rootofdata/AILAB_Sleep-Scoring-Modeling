@@ -1,4 +1,5 @@
-## **Title**: Sleep Scoring Guidelines and Criteria Based on The AASM Manual for the Scoring of Sleep and Associated Events
+## STUDY : Classification of EEG and Sleep Stages Criteria:
+* Sleep Scoring Guidelines and Criteria Based on The AASM Manual for the Scoring of Sleep and Associated Events
 
 ### **Introduction:**
 The interpretation of polysomnography (PSG) results follows the guidelines outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Sleep stages, arousals, and associated events are labeled according to the rules defined in the manual. The PSG data, including EEG, EOG, EMG, and respiratory signals, are analyzed in 30-second epochs, and specific criteria are applied for labeling sleep stages and events.
