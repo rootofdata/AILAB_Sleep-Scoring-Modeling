@@ -17,6 +17,10 @@
 - 적외선 수면 비디오와 음성 데이터에 대한 학습 데이터셋을 구축하여 민간기업, 공공기관 및 연구소가 의료 데이터에 쉽게 접근하도록 연구.
 - 적외선 수면 비디오 및 음성 데이터를 활용한 시범 서비스를 구축.
 
+<p align="center">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/bf61818a-fcbf-49a8-96d3-36ecd793a026",width="250" height="500/">
+</p>  
+
 ### **수면 단계:**
 #### **a. Stage W (Wakefulness):**
 - 수면 시작 전 50% 이상의 알파파 활동을 보임.  
@@ -38,6 +42,10 @@
 #### **e. Stage R (REM - Dream Sleep):**
 - 낮은 진폭과 혼합 주파수 EEG, 낮은 턱 근전도, 빠른 안구 움직임이 특징임.
 
+<p align="center">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/faccce02-9d34-4c39-bfc7-d8a0cdd3cb39",width="250" height="150/">
+</p> 
+
 ### **PLM 및 PLM-관련 각성의 점수화:**
 
 - LM 기간은 0.5-10초이며, 8uV 이상의 휴식 EMG에서 시작하여 2uV 이하로 떨어질 때 종료.
@@ -50,8 +58,15 @@
 - N3 기준이 N3 이후의 epoch에서 충족되지 않으면 N2로 재분류.
 - 주요 신체 운동 중에도 일부 알파파 리듬이 관찰되면 W로 분류.
 
+<p align="center">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61",width="550" height="300/">
+</p> 
+<https://m.blog.naver.com/crewblossom/221613672349>
+
 ## **결론:**
 - 본 연구에서는 The AASM Manual for the Scoring of Sleep and Associated Events에서 제시한 원칙을 준수.
 - 수면 단계, 각성 및 관련 이벤트를 올바르게 평가하는 것은 정확한 진단과 치료 계획 수립에 중요.
 - 또한 의료데이터에 어려움을 겪는 민간기업, 공공기관, 연구소들이 쉽게 접근할 수 있도록 인공지능 연구 및 개발을 위한 윤리적 데이터에 대한 접근이 용이한 시스템을 구축.
 - 학습된 데이터를 활용하여 데이터 가이드라인에 따라 시험 학습을 진행하고 모델을 저장할 수 있도록 시스템을 오픈함으로써 데이터의 활용도를 높이고자 함.
+
+Reference: https://blog.naver.com/cnshs99/222468097699)https://blog.naver.com/cnshs99/222468097699
