@@ -1,7 +1,9 @@
 ## STUDY : Classification of EEG and Sleep Stages Criteria:
 * Infrared sleep video and voice database construction project for disease diagnosis using artificial intelligence technology  
-* Constructed a dataset of infrared sleep video data with over 5000 hours, anonymized and standardized after completion of the necessary tasks.  
-Seoul National University Hospital participates in research activities to enhance artificial intelligence technology for sleep and speech disorders through the construction of infrared sleep video data and voice data, under the supervision of the institution.
+* [Seoul National University Hospital participates] in research activities to enhance artificial intelligence technology for sleep and speech disorders through the construction of infrared sleep video data and voice data, under the supervision of the institution.
+
+Dataset : infrared sleep video data with over 5000 hours, anonymized and standardized after completion of the necessary tasks.  
+
 
 ### **Introduction:**
 
