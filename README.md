@@ -1,5 +1,3 @@
-# SSU-AI-LAB
-
 ## **Title**: Sleep Scoring Guidelines and Criteria Based on The AASM Manual for the Scoring of Sleep and Associated Events
 
 ### **Introduction:**
@@ -42,6 +40,7 @@ The interpretation of polysomnography (PSG) results follows the guidelines outli
 - If even partial alpha rhythm is observed during major body movements, classify as W.
 ![image](https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61)
 <https://m.blog.naver.com/crewblossom/221613672349>
+
 ### **Conclusion:**
 The PSG interpretation adheres to the principles outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Proper scoring of sleep stages, arousals, and associated events is crucial for accurate diagnosis and treatment planning.
 
