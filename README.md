@@ -38,7 +38,7 @@ Sleep is a physiological state of altered consciousness where the brain cyclical
 - PLM-associated arousals occur within 0.5 seconds of LM, with specific EEG criteria and increased chin EMG during REM sleep.
 
 <p align="center">
- <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/faccce02-9d34-4c39-bfc7-d8a0cdd3cb39",width="400" height="200/">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/faccce02-9d34-4c39-bfc7-d8a0cdd3cb39",width="250" height="150/">
 </p> 
 
 ### **Sleep Scoring Principles:**
@@ -49,7 +49,7 @@ Sleep is a physiological state of altered consciousness where the brain cyclical
 - If even partial alpha rhythm is observed during major body movements, classify as W.
 
 <p align="center">
- <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61",width="400" height="200/">
+ <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/6bde9681-c707-4db2-bbcf-bbc8003efd61",width="550" height="300/">
 </p> 
 <https://m.blog.naver.com/crewblossom/221613672349>
 
