@@ -8,7 +8,7 @@ Dataset : infrared sleep video data with over 5000 hours, anonymized and standar
 - Constructing sleep polygraph data correlated with infrared sleep video data.
 - Developing disease prediction models and algorithms based on this data.
 - Establishing a service model based on artificial intelligence models.
-- 
+
 ### **Speech Disorder Discrimination Using Voice Data:**
 
 - Constructing learning datasets for infrared sleep videos and voice data to lead the development of private and public artificial intelligence technologies.
