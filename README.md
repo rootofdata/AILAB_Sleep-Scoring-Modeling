@@ -66,7 +66,8 @@ The interpretation of polysomnography (PSG) results follows the guidelines outli
 <https://m.blog.naver.com/crewblossom/221613672349>
 
 ### **Conclusion:**
-The PSG interpretation adheres to the principles outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Proper scoring of sleep stages, arousals, and associated events is crucial for accurate diagnosis and treatment planning.
-
+- The PSG interpretation adheres to the principles outlined in The AASM Manual for the Scoring of Sleep and Associated Events. Proper scoring of sleep stages, arousals, and associated events is crucial for accurate diagnosis and treatment planning.
+- Establishing a system that enables easy access to ethical data necessary for AI research and development related to sleep and speech for private companies, public institutions, and research centers having difficulty accessing medical data:
+- Utilizing trained data to conduct trial learning according to data guidelines and opening a system to save models, thereby enhancing the usability of the data.
 
 Reference: https://blog.naver.com/cnshs99/222468097699)https://blog.naver.com/cnshs99/222468097699
