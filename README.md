@@ -1,4 +1,4 @@
-## STUDY : Classification of EEG and Sleep Stages Criteria:
+## Classification of EEG and Sleep Stages Criteria:
 * Infrared sleep video and voice database construction project for disease diagnosis using artificial intelligence technology  
 * [Seoul National University Hospital participates] in research activities to enhance artificial intelligence technology for sleep and speech disorders through the construction of infrared sleep video data and voice data, under the supervision of the institution.
 
