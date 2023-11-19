@@ -1,4 +1,4 @@
-## Classification of EEG and Sleep Stages Criteria:
+## Classification of EEG and Sleep Stages Criteria
 * Infrared sleep video and voice database construction project for disease diagnosis using artificial intelligence technology  
 * [Seoul National University Hospital participates] in research activities to enhance artificial intelligence technology for sleep and speech disorders through the construction of infrared sleep video data and voice data, under the supervision of the institution.
 
@@ -21,7 +21,7 @@ The interpretation of polysomnography (PSG) results follows the guidelines outli
 <p align="center">
  <img src="https://github.com/rootofdata/SSU-AI-LAB/assets/86711374/bf61818a-fcbf-49a8-96d3-36ecd793a026",width="250" height="500/">
 </p>  
-
+  
 ### **Sleep Stages:**
 #### **a. Stage W (Wakefulness):**
 
